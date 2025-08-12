@@ -1,0 +1,20 @@
+{
+  "name": "car-rentals-website",
+  "version": "1.0.0",
+  "description": "A car rental website with Express.js backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["car-rental", "express", "nodejs"],
+  "author": "",
+  "license": "ISC"
+}
